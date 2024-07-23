@@ -1,1 +1,1 @@
-print("Hola, Srujan. It's an amazing day, V1")
+print("Hola, Srujan. It's an amazing day, V2")
