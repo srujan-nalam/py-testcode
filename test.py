@@ -1,1 +1,1 @@
-int("Hola, Srujan. It's an amazing day, V3")
+print("Hola, Srujan. It's an amazing day, V3")
